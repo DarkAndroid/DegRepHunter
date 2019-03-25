@@ -1,0 +1,2 @@
+python pseudogengen.py
+pause
