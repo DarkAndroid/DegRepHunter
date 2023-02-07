@@ -1,2 +1,0 @@
-python orlovtabler.py
-pause

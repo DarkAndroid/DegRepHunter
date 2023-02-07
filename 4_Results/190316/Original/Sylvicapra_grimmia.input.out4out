@@ -1,0 +1,984 @@
+3-Frame length:10000000
+Slide step:1
+3-User-defined Min:0
+ Max:10
+//fillseq OK - how=16437,frame 10000000, step 1
+//Sequence No 1
+Rep-s  Dir Sym Com Inv = Total
+Table: 	294	246	117	120 (1554)
+Compr: 	161	88	53	36 (676)
+------ Special statistics ------------
+Maximal Repeats = 20 (type) Direct  :
+	20	13	15	12
+Repeats ---- Type of repeats:
+Length Number    1-Standard 2-Symm. 3-Compl. 4-Inverted, (Check 1+2+3+4=Number)
+0	0		0	0	0	0
+1	0		0	0	0	0
+2	0		0	0	0	0
+3	0		0	0	0	0
+4	0		0	0	0	0
+5	0		0	0	0	0
+6	0		0	0	0	0
+7	0		0	0	0	0
+8	0		0	0	0	0
+9	0		0	0	0	0
+10	544		191	180	84	89
+11	163		69	47	21	26
+12	52		25	16	6	5
+13	13		5	3	5	0
+14	0		0	0	0	0
+15	3		2	0	1	0
+16	0		0	0	0	0
+17	1		1	0	0	0
+18	0		0	0	0	0
+19	0		0	0	0	0
+20	1		1	0	0	0
+21	0		0	0	0	0
+22	0		0	0	0	0
+23	0		0	0	0	0
+24	0		0	0	0	0
+25	0		0	0	0	0
+26	0		0	0	0	0
+27	0		0	0	0	0
+28	0		0	0	0	0
+29	0		0	0	0	0
+30	0		0	0	0	0
+31	0		0	0	0	0
+32	0		0	0	0	0
+33	0		0	0	0	0
+34	0		0	0	0	0
+35	0		0	0	0	0
+36	0		0	0	0	0
+37	0		0	0	0	0
+38	0		0	0	0	0
+39	0		0	0	0	0
+40	0		0	0	0	0
+41	0		0	0	0	0
+42	0		0	0	0	0
+43	0		0	0	0	0
+44	0		0	0	0	0
+45	0		0	0	0	0
+46	0		0	0	0	0
+47	0		0	0	0	0
+48	0		0	0	0	0
+49	0		0	0	0	0
+50	0		0	0	0	0
+51	0		0	0	0	0
+52	0		0	0	0	0
+53	0		0	0	0	0
+54	0		0	0	0	0
+55	0		0	0	0	0
+56	0		0	0	0	0
+57	0		0	0	0	0
+58	0		0	0	0	0
+59	0		0	0	0	0
+60	0		0	0	0	0
+61	0		0	0	0	0
+62	0		0	0	0	0
+63	0		0	0	0	0
+64	0		0	0	0	0
+65	0		0	0	0	0
+66	0		0	0	0	0
+67	0		0	0	0	0
+68	0		0	0	0	0
+69	0		0	0	0	0
+70	0		0	0	0	0
+71	0		0	0	0	0
+72	0		0	0	0	0
+73	0		0	0	0	0
+74	0		0	0	0	0
+75	0		0	0	0	0
+76	0		0	0	0	0
+77	0		0	0	0	0
+78	0		0	0	0	0
+79	0		0	0	0	0
+80	0		0	0	0	0
+81	0		0	0	0	0
+82	0		0	0	0	0
+83	0		0	0	0	0
+84	0		0	0	0	0
+85	0		0	0	0	0
+86	0		0	0	0	0
+87	0		0	0	0	0
+88	0		0	0	0	0
+89	0		0	0	0	0
+90	0		0	0	0	0
+91	0		0	0	0	0
+92	0		0	0	0	0
+93	0		0	0	0	0
+94	0		0	0	0	0
+95	0		0	0	0	0
+96	0		0	0	0	0
+97	0		0	0	0	0
+98	0		0	0	0	0
+99	0		0	0	0	0
+Excel log histogram August 2003
+--------------
+Longer components
+2 -- sorted -------------Longer components
+
+Unsorted list: length	0	
+	0	0	0	0
+Complexity = number of components 777.00
+Length of sequence analysed - Check length=(sum of components) 8108.00
+Mean component length 10.44
+Logarithm length 9.00
+Relation constant log (N) / Mean  0.86
+Num. of component  Length(nt)  Mean
+Total   	777	8108	10.435
+Direct  	294	3101	10.548
+Symmetr.	246	2548	10.358
+Complem.	117	1223	10.453
+Inverted	120	1236	10.300
+Longer (>100) components
+ Number Length(nt) Mean
+Total   	0	0	0.000
+Direct  	0	0	0.000
+Symmetr.	0	0	0.000
+Complem.	0	0	0.000
+Inverted	0	0	0.000
+----- Check1 total length ----
+special_dist_number=777
+total_comp[0]=777
+total_comp[1]=294
+total_comp[2]=246
+total_comp[3]=117
+total_comp[4]=120
+
+ Ratio of components (Longer>100)/Total: Number, Length /TotalLength
+Total   	0.0000	0.0000	0.0000
+Direct  	0.0000	0.0000	0.0000
+Symmetr.	0.0000	0.0000	0.0000
+Complem.	0.0000	0.0000	0.0000
+Inverted	0.0000	0.0000	0.0000
+
+Longer (>21) components
+ Number Length(nt) Mean  >(21+100)/TotalLength
+Total   	0.00	0.00	0.00	0.00
+Direct  	0.00	0.00	0.00	0.00
+Symmetr.	0.00	0.00	0.00	0.00
+Complem.	0.00	0.00	0.00	0.00
+Inverted	0.00	0.00	0.00	0.00
+----- Check2 total length ----
+special_dist_number=777
+total_comp[0]=777
+total_comp[1]=294
+total_comp[2]=246
+total_comp[3]=117
+total_comp[4]=120
+---------- Distance D. S. C. I. -------------
+0	777	294	246	117	120
+500000	0	0	0	0	0
+1000000	0	0	0	0	0
+1500000	0	0	0	0	0
+2000000	0	0	0	0	0
+2500000	0	0	0	0	0
+3000000	0	0	0	0	0
+3500000	0	0	0	0	0
+4000000	0	0	0	0	0
+4500000	0	0	0	0	0
+5000000	0	0	0	0	0
+------- Distance (Fragment>20) D. S. C. I. -----------
+0	0	0	0	0	0
+500000	0	0	0	0	0
+1000000	0	0	0	0	0
+1500000	0	0	0	0	0
+2000000	0	0	0	0	0
+2500000	0	0	0	0	0
+3000000	0	0	0	0	0
+3500000	0	0	0	0	0
+4000000	0	0	0	0	0
+4500000	0	0	0	0	0
+5000000	0	0	0	0	0
+----- Check total length ----
+special_dist_number=777
+total_comp[0]=777
+total_comp[1]=294
+total_comp[2]=246
+total_comp[3]=117
+total_comp[4]=120
+----- Average distance ----
+Aver:	5263	4853	5407	5827	5426
+Disp:	3820.80	3640.52	3896.79	4149.09	3704.52
+----- Average distance (>21)----
+Aver:	0	0	0	0	0
+Disp:	-1.#J	-1.#J	-1.#J	-1.#J	-1.#J
+
+------ Repeats (777) ------------
+523	414	10	1	ataattacaa	ataattacaa	Direct_repeat
+706	422	11	1	aataaaagtaa	aataaaagtaa	Direct_repeat
+992	317	10	2	agcatactgg		Non-standard repeat
+1124	827	10	1	aataaccaaa	aataaccaaa	Direct_repeat
+1130	530	12	1	caaaaacaaaat	caaaaacaaaat	Direct_repeat
+1141	532	10	2	taaaacaaaa		Non-standard repeat
+1179	152	10	3	tagaaattct		Non-standard repeat
+1238	818	11	2	aattaaagtat		Non-standard repeat
+1240	1164	10	1	ttaaagtata	ttaaagtata	Direct_repeat
+1535	1270	10	4	aaaaggtaca	aaaaggtaca	Invert_repeat
+1934	1128	10	1	accaaaaaca	accaaaaaca	Direct_repeat
+2010	1793	10	1	tatcctgacc	tatcctgacc	Direct_repeat
+2168	1633	10	4	gagctttaac	gagctttaac	Invert_repeat
+2402	2367	11	2	cgacaataggg		Non-standard repeat
+2622	1115	11	1	tctcaattaaa	tctcaattaaa	Direct_repeat
+2628	934	10	2	ttaaactcac		Non-standard repeat
+2735	1305	10	1	cttaacaaaa	cttaacaaaa	Direct_repeat
+2836	1632	10	3	gcaatttcga		Non-standard repeat
+2898	2625	10	1	caattaaact	caattaaact	Direct_repeat
+2922	1950	10	2	ccctacgacc		Non-standard repeat
+3056	623	11	3	atattagctat		Non-standard repeat
+3113	571	10	2	aactcaaaat		Non-standard repeat
+3157	1643	10	1	aacaatttca	aacaatttca	Direct_repeat
+3171	440	11	1	aagtaactcta	aagtaactcta	Direct_repeat
+3299	1412	11	3	ttcatctccac		Non-standard repeat
+3372	2834	11	2	gctttaacgta		Non-standard repeat
+3421	3382	10	1	agaatatgca	agaatatgca	Direct_repeat
+3455	1664	11	2	acaacaaccct		Non-standard repeat
+3718	439	11	4	agagttacttt	agagttacttt	Invert_repeat
+3718	3171	10	4	agagttactt	agagttactt	Invert_repeat
+3738	1707	10	4	aataatagag	aataatagag	Invert_repeat
+3813	2075	10	3	gtgctcccaa		Non-standard repeat
+3964	1653	13	3	ttgttataattag		Non-standard repeat
+3999	1099	10	3	atcgggtttg		Non-standard repeat
+4018	2319	11	2	tactcgctatt		Non-standard repeat
+4026	2771	11	1	attatccctat	attatccctat	Direct_repeat
+4028	2771	11	2	tatccctatta		Non-standard repeat
+4035	3437	11	1	attataataaa	attataataaa	Direct_repeat
+4049	1858	10	2	acacaaccca		Non-standard repeat
+4091	3912	10	1	aacccaatca	aacccaatca	Direct_repeat
+4116	1709	10	4	ttaataatag	ttaataatag	Invert_repeat
+4166	1233	10	1	aataaaatta	aataaaatta	Direct_repeat
+4177	1855	11	1	ttaacccaaca	ttaacccaaca	Direct_repeat
+4276	2776	11	1	ccctatcctcc	ccctatcctcc	Direct_repeat
+4314	2960	11	1	ctagcacccat	ctagcacccat	Direct_repeat
+4517	2197	11	1	aaacttaatca	aaacttaatca	Direct_repeat
+4538	3276	11	1	catgacctcta	catgacctcta	Direct_repeat
+4599	1066	10	1	tcacacacat	tcacacacat	Direct_repeat
+4610	1133	10	1	aaacaaaata	aaacaaaata	Direct_repeat
+4610	1140	10	2	aaacaaaata		Non-standard repeat
+4649	3670	11	1	tctcctatcaa	tctcctatcaa	Direct_repeat
+4720	1296	10	2	caaaaaacga		Non-standard repeat
+4830	1669	10	2	acaaacaaca		Non-standard repeat
+4866	1143	10	2	acaaaacaaa		Non-standard repeat
+4869	2141	10	1	aaacaaataa	aaacaaataa	Direct_repeat
+4869	2138	10	2	aaacaaataa		Non-standard repeat
+4870	1828	11	2	aacaaataaca		Non-standard repeat
+4887	1825	10	1	ccaacaataa	ccaacaataa	Direct_repeat
+4969	159	10	1	agaccaagag	agaccaagag	Direct_repeat
+5067	820	10	3	actttaatta		Non-standard repeat
+5071	3852	11	1	taattaagcta	taattaagcta	Direct_repeat
+5106	218	10	1	cacccccacg	cacccccacg	Direct_repeat
+5115	2284	10	2	gaaattttag		Non-standard repeat
+5187	5163	11	4	ggcgggagaag	ggcgggagaag	Invert_repeat
+5222	2697	10	3	tttgaatttg		Non-standard repeat
+5227	1990	10	3	atttgcaatt		Non-standard repeat
+5432	2768	10	2	cctattaatc		Non-standard repeat
+5516	2539	10	4	attcgtaata	attcgtaata	Invert_repeat
+5524	1887	13	3	taattttcttcat		Non-standard repeat
+5529	3410	10	1	ttcttcatag	ttcttcatag	Direct_repeat
+5532	3605	10	4	ttcatagtaa	ttcatagtaa	Invert_repeat
+5542	4384	10	2	tacctattat		Non-standard repeat
+5544	4032	11	1	cctattataat	cctattataat	Direct_repeat
+5550	4395	13	1	ataattggaggct	ataattggaggct	Direct_repeat
+5563	5340	10	3	ttggcaactg		Non-standard repeat
+5617	2137	10	1	gaataaacaa	gaataaacaa	Direct_repeat
+5617	2142	10	2	gaataaacaa		Non-standard repeat
+5621	4832	11	1	aaacaacataa	aaacaacataa	Direct_repeat
+5671	2937	10	1	catcttctat	catcttctat	Direct_repeat
+5677	2615	10	3	ctatagtaga		Non-standard repeat
+5814	390	10	2	attaatttta		Non-standard repeat
+5815	1234	10	4	ttaattttat	ttaattttat	Invert_repeat
+5819	1392	10	3	ttttatcact		Non-standard repeat
+5893	1841	10	1	tactaattac	tactaattac	Direct_repeat
+5909	1721	12	4	attattacttct	attattacttct	Invert_repeat
+5913	1891	10	4	ttacttcttt	ttacttcttt	Invert_repeat
+5942	4503	12	3	tggtattacaat		Non-standard repeat
+5972	512	11	1	cctaaacacaa	cctaaacacaa	Direct_repeat
+6033	3352	10	4	ttctgattct	ttctgattct	Invert_repeat
+6132	4772	10	3	tttggatata		Non-standard repeat
+6142	1091	10	4	taggaatagt	taggaatagt	Invert_repeat
+6166	1854	10	3	caattgggtt		Non-standard repeat
+6167	327	10	3	aattgggttc		Non-standard repeat
+6189	3865	10	4	gtatgggccc	gtatgggccc	Invert_repeat
+6253	4501	10	1	ctaccataat	ctaccataat	Direct_repeat
+6311	1966	10	2	tcacggaggt		Non-standard repeat
+6339	6156	10	1	gctataatat	gctataatat	Direct_repeat
+6359	1894	13	3	cttcattttcctt		Non-standard repeat
+6377	3106	11	4	agttggaggct	agttggaggct	Invert_repeat
+6379	5554	10	1	ttggaggctt	ttggaggctt	Direct_repeat
+6387	87	10	4	ttaacaggaa	ttaacaggaa	Invert_repeat
+6388	338	10	1	taacaggaat	taacaggaat	Direct_repeat
+6474	4656	10	1	tcaataggag	tcaataggag	Direct_repeat
+6524	5348	10	1	actattctca	actattctca	Direct_repeat
+6526	4144	11	1	tattctcaggc	tattctcaggc	Direct_repeat
+6570	523	11	4	tttgtaattat	tttgtaattat	Invert_repeat
+6571	414	10	4	ttgtaattat	ttgtaattat	Invert_repeat
+6573	5834	12	3	gtaattatattt		Non-standard repeat
+6586	1048	11	4	taggtgtaaac	taggtgtaaac	Invert_repeat
+6602	3461	10	2	ctttttccca		Non-standard repeat
+6607	2218	10	2	tcccacaaca		Non-standard repeat
+6615	3215	11	2	catttcctagg		Non-standard repeat
+6622	4677	10	2	taggactatc		Non-standard repeat
+6715	4477	11	1	taacagcagtt	taacagcagtt	Direct_repeat
+6801	1578	12	2	aacctagaatga		Non-standard repeat
+6810	1986	10	1	tgactaaacg	tgactaaacg	Direct_repeat
+6868	1228	13	2	taaaataagaaag		Non-standard repeat
+6886	331	10	2	aatcgaaccc		Non-standard repeat
+6901	828	10	3	tattggtttc		Non-standard repeat
+6916	1591	10	1	aacaccatag	aacaccatag	Direct_repeat
+6928	5859	11	2	actatgactct		Non-standard repeat
+6938	1115	10	1	tctcaattaa	tctcaattaa	Direct_repeat
+6938	2622	10	1	tctcaattaa	tctcaattaa	Direct_repeat
+6951	5827	11	3	gatgttagtaa		Non-standard repeat
+6968	6595	10	1	acataacctt	acataacctt	Direct_repeat
+7022	5136	11	2	catatcccata		Non-standard repeat
+7053	1940	10	1	aacatcacct	aacatcacct	Direct_repeat
+7056	4900	12	2	atcacctatcat		Non-standard repeat
+7077	6242	10	2	actacacttc		Non-standard repeat
+7098	6728	10	1	actaataatc	actaataatc	Direct_repeat
+7175	3031	10	2	caagtacaat		Non-standard repeat
+7229	4291	10	2	tcatcctaat		Non-standard repeat
+7236	11	10	3	aattctaatt		Non-standard repeat
+7245	2117	10	2	tgcccttcca		Non-standard repeat
+7352	5530	10	4	actatgaaga	actatgaaga	Invert_repeat
+7382	1661	11	1	taatcccaaca	taatcccaaca	Direct_repeat
+7425	5158	10	4	agaagtagat	agaagtagat	Invert_repeat
+7455	4712	11	1	agaaataacaa	agaaataacaa	Direct_repeat
+7560	1661	12	2	aacaaccctaat		Non-standard repeat
+7561	7382	11	2	acaaccctaat		Non-standard repeat
+7637	88	13	2	taccaattgtcct		Non-standard repeat
+7670	2839	10	1	atttcgaaaa	atttcgaaaa	Direct_repeat
+7687	4188	11	1	gcatccatact	gcatccatact	Direct_repeat
+7700	7419	10	2	aagatcatca		Non-standard repeat
+7723	953	11	1	gcattaacctt	gcattaacctt	Direct_repeat
+7786	6443	11	3	gatacatcaac		Non-standard repeat
+7800	4811	10	1	acttacaata	acttacaata	Direct_repeat
+7831	2906	10	1	cttttcatta	cttttcatta	Direct_repeat
+7860	4046	10	1	aaaacacaac	aaaacacaac	Direct_repeat
+7861	5975	11	1	aaacacaactt	aaacacaactt	Direct_repeat
+7879	472	10	2	aacccagaat		Non-standard repeat
+7884	4936	10	4	agaattgata	agaattgata	Invert_repeat
+7899	4429	11	2	aaaagcatcaa		Non-standard repeat
+7905	7158	10	2	atcaaaacaa		Non-standard repeat
+7907	1142	10	2	caaaacaaaa		Non-standard repeat
+7908	1142	11	1	aaaacaaaaca	aaaacaaaaca	Direct_repeat
+7909	4865	11	2	aaacaaaacac		Non-standard repeat
+7927	4609	10	1	gaaacaaaat	gaaacaaaat	Direct_repeat
+7935	255	10	1	atgaacgaaa	atgaacgaaa	Direct_repeat
+7954	1754	10	2	cctctttcat		Non-standard repeat
+7984	1263	10	1	taccccttgt	taccccttgt	Direct_repeat
+8007	5379	10	2	ctatttccca		Non-standard repeat
+8011	4221	10	4	ttcccagttt	ttcccagttt	Invert_repeat
+8013	1044	10	1	cccagtttac	cccagtttac	Direct_repeat
+8062	4821	10	1	tttccctcca	tttccctcca	Direct_repeat
+8082	3109	10	1	ctccaactca	ctccaactca	Direct_repeat
+8094	7906	10	1	tcaaaacaaa	tcaaaacaaa	Direct_repeat
+8095	4867	12	1	caaaacaaataa	caaaacaaataa	Direct_repeat
+8097	2141	10	1	aaacaaataa	aaacaaataa	Direct_repeat
+8097	2138	10	2	aaacaaataa		Non-standard repeat
+8109	4187	10	1	agcatccata	agcatccata	Direct_repeat
+8132	7174	10	2	aacatgaaca		Non-standard repeat
+8138	6571	10	3	aacattaata		Non-standard repeat
+8138	413	11	2	aacattaatac		Non-standard repeat
+8138	523	10	2	aacattaata		Non-standard repeat
+8156	4289	10	1	cctaatccta	cctaatccta	Direct_repeat
+8167	1583	10	4	ttattggatc	ttattggatc	Invert_repeat
+8185	7975	12	1	tactaggcctac	tactaggcctac	Direct_repeat
+8188	1598	11	4	taggcctacta	taggcctacta	Invert_repeat
+8193	4914	10	1	ctactacccc	ctactacccc	Direct_repeat
+8232	3035	12	1	atgaacctaggc	atgaacctaggc	Direct_repeat
+8285	4162	11	1	ccgtaataaaa	ccgtaataaaa	Direct_repeat
+8333	2245	10	3	accaacccca		Non-standard repeat
+8379	2571	10	3	ctctttattc		Non-standard repeat
+8395	4207	11	1	tagccctcgcc	tagccctcgcc	Direct_repeat
+8410	2233	10	1	gactaacagc	gactaacagc	Direct_repeat
+8439	4519	11	2	ctactaattca		Non-standard repeat
+8473	6085	10	2	ctctaataag		Non-standard repeat
+8476	8104	10	1	taataagcat	taataagcat	Direct_repeat
+8513	4164	10	3	cattatttta		Non-standard repeat
+8527	3537	11	1	tactaacaatt	tactaacaatt	Direct_repeat
+8552	410	10	1	agccataatt	agccataatt	Direct_repeat
+8576	6498	10	3	taccctccta		Non-standard repeat
+8587	4466	10	4	tcagcctata	tcagcctata	Invert_repeat
+8605	725	11	1	acaacacataa	acaacacataa	Direct_repeat
+8622	4420	10	1	accaaaccca	accaaaccca	Direct_repeat
+8662	4919	10	1	acccctcaca	acccctcaca	Direct_repeat
+8687	5522	10	2	cttttaataa		Non-standard repeat
+8690	7803	10	2	ttaataacat		Non-standard repeat
+8716	4238	10	1	attccacttc	attccacttc	Direct_repeat
+8767	4811	11	1	acttacaatat	acttacaatat	Direct_repeat
+8767	7800	10	1	acttacaata	acttacaata	Direct_repeat
+8823	214	10	1	accacacccc	accacacccc	Direct_repeat
+8827	2246	10	4	caccccaacc	caccccaacc	Invert_repeat
+8865	3048	10	1	tcctctttat	tcctctttat	Direct_repeat
+8884	6029	10	2	agtcttattc		Non-standard repeat
+8965	1449	10	3	accaacaggt		Non-standard repeat
+8996	6048	10	2	gaagtcccac		Non-standard repeat
+9057	4440	10	1	atcatagcct	atcatagcct	Direct_repeat
+9100	8162	10	1	cctatttatt	cctatttatt	Direct_repeat
+9144	8879	13	3	aggcttcagaata		Non-standard repeat
+9162	8806	12	1	aagcacctttca	aagcacctttca	Direct_repeat
+9197	7841	10	2	tcaactttct		Non-standard repeat
+9198	5980	10	1	caactttctt	caactttctt	Direct_repeat
+9213	6041	11	2	ccacaggtttc		Non-standard repeat
+9248	7248	10	2	tctaccttcc		Non-standard repeat
+9250	3547	10	1	taccttccta	taccttccta	Direct_repeat
+9279	5117	10	4	aactaaaatt	aactaaaatt	Invert_repeat
+9294	1106	10	2	ttacctccaa		Non-standard repeat
+9304	8915	10	2	tcaccatttt		Non-standard repeat
+9328	175	10	4	tgcttgatac	tgcttgatac	Invert_repeat
+9331	5861	10	4	ttgatactga	ttgatactga	Invert_repeat
+9383	8075	11	3	tactgatgagg		Non-standard repeat
+9400	796	10	3	ttcttttagt		Non-standard repeat
+9405	8141	11	4	ttagtattaat	ttagtattaat	Invert_repeat
+9412	5892	10	4	taattagtac	taattagtac	Invert_repeat
+9414	3901	10	4	attagtacgg	attagtacgg	Invert_repeat
+9427	2097	13	1	acttccaatcagt	acttccaatcagt	Direct_repeat
+9442	5963	10	4	gtttcggtcc	gtttcggtcc	Invert_repeat
+9463	8100	11	2	gaataataaac		Non-standard repeat
+9527	2692	10	3	cgcattttga		Non-standard repeat
+9562	2264	10	2	aaaaaacaag		Non-standard repeat
+9580	3823	10	3	aatgtggttt		Non-standard repeat
+9587	4220	10	3	ttttgaccct		Non-standard repeat
+9588	480	10	3	tttgacccta		Non-standard repeat
+9650	8864	10	2	atttctccta		Non-standard repeat
+9689	9065	11	4	ccttccatgag	ccttccatgag	Invert_repeat
+9695	9389	10	4	atgagcctca	atgagcctca	Invert_repeat
+9701	2633	11	1	ctcacaaacaa	ctcacaaacaa	Direct_repeat
+9703	4829	10	1	cacaaacaac	cacaaacaac	Direct_repeat
+9704	1672	13	1	acaaacaactaac	acaaacaactaac	Direct_repeat
+9708	4094	10	2	acaactaacc		Non-standard repeat
+9713	4955	10	4	taacctaaat	taacctaaat	Invert_repeat
+9723	4196	10	2	acaatactca		Non-standard repeat
+9742	7068	10	3	tcttcttaat		Non-standard repeat
+9747	3263	10	1	ttaatcttcc	ttaatcttcc	Direct_repeat
+9748	3199	12	2	taatcttcctgc		Non-standard repeat
+9775	9574	10	1	cctacgaatg	cctacgaatg	Direct_repeat
+9790	6114	10	2	aaaaaggact		Non-standard repeat
+9798	2954	10	4	ctagaatgaa	ctagaatgaa	Invert_repeat
+9810	4547	10	4	gaatatggta	gaatatggta	Invert_repeat
+9826	532	11	2	ttaaaacaaaa		Non-standard repeat
+9827	1141	10	1	taaaacaaaa	taaaacaaaa	Direct_repeat
+9827	1132	10	2	taaaacaaaa		Non-standard repeat
+9828	532	10	1	aaaacaaaat	aaaacaaaat	Direct_repeat
+9828	1132	13	1	aaaacaaaataaa	aaaacaaaataaa	Direct_repeat
+9828	1138	13	2	aaaacaaaataaa		Non-standard repeat
+9829	4610	10	1	aaacaaaata	aaacaaaata	Direct_repeat
+9857	9474	10	3	gattatgatc		Non-standard repeat
+9871	8140	10	2	tcataattac		Non-standard repeat
+9916	6206	10	1	attcacagta	attcacagta	Direct_repeat
+9937	4112	10	1	actattaata	actattaata	Direct_repeat
+9970	5410	10	4	cctactatgc	cctactatgc	Invert_repeat
+9973	500	11	1	actatgcttag	actatgcttag	Direct_repeat
+10016	522	10	2	acattaataa		Non-standard repeat
+10029	2629	10	1	taaactcaca	taaactcaca	Direct_repeat
+10037	9286	12	2	catttcacctta		Non-standard repeat
+10040	8715	10	2	ttcaccttag		Non-standard repeat
+10058	7445	11	2	atacccattat		Non-standard repeat
+10099	7976	10	1	actaggccta	actaggccta	Direct_repeat
+10099	8186	10	1	actaggccta	actaggccta	Direct_repeat
+10116	4592	10	3	tagtaatagt		Non-standard repeat
+10130	6666	10	2	aacacatacg		Non-standard repeat
+10157	7234	10	2	aatcttaatc		Non-standard repeat
+10185	9985	10	4	tattattcct	tattattcct	Invert_repeat
+10196	7324	10	1	caatgatact	caatgatact	Direct_repeat
+10201	4192	11	2	atactcatacc		Non-standard repeat
+10220	8368	10	2	gactatcaaa		Non-standard repeat
+10229	419	10	2	aaaataacat		Non-standard repeat
+10230	6183	10	3	aaataacata		Non-standard repeat
+10249	444	10	1	aactctacaa	aactctacaa	Direct_repeat
+10250	6948	10	3	actctacaat		Non-standard repeat
+10264	5430	11	1	agcctattaat	agcctattaat	Direct_repeat
+10268	9409	10	1	tattaattag	tattaattag	Direct_repeat
+10272	8451	10	3	aattagcctc		Non-standard repeat
+10276	9698	10	1	agcctcacaa	agcctcacaa	Direct_repeat
+10281	1767	10	1	cacaagccta	cacaagccta	Direct_repeat
+10285	6236	10	1	agcctacttc	agcctacttc	Direct_repeat
+10289	3408	10	2	tacttcttat		Non-standard repeat
+10310	8267	12	4	gtgacaacagcc	gtgacaacagcc	Invert_repeat
+10314	4099	12	1	caacagcctcaa	caacagcctcaa	Direct_repeat
+10326	1396	10	4	cttctcacta	cttctcacta	Invert_repeat
+10375	2990	12	1	ctaaccatatga	ctaaccatatga	Direct_repeat
+10411	6557	10	1	agccaaaatc	agccaaaatc	Direct_repeat
+10415	7659	10	2	aaaatcacct		Non-standard repeat
+10418	7056	11	1	atcacctatca	atcacctatca	Direct_repeat
+10418	4901	11	2	atcacctatca		Non-standard repeat
+10440	9452	11	1	aatccgaaaaa	aatccgaaaaa	Direct_repeat
+10447	10223	10	2	aaaaaactat		Non-standard repeat
+10453	9101	11	1	ctatttattac	ctatttattac	Direct_repeat
+10468	4290	11	1	ctaatcctact	ctaatcctact	Direct_repeat
+10469	7227	12	2	taatcctactac		Non-standard repeat
+10481	1090	11	1	aactattccta	aactattccta	Direct_repeat
+10482	6142	10	4	actattccta	actattccta	Invert_repeat
+10484	7109	10	1	tattcctaat	tattcctaat	Direct_repeat
+10487	10465	11	2	tcctaatcata		Non-standard repeat
+10493	5947	10	2	tcataacatt		Non-standard repeat
+10532	9655	10	1	tcctatttga	tcctatttga	Direct_repeat
+10562	10117	10	3	tcattatcat		Non-standard repeat
+10618	4945	11	4	ttcctattcta	ttcctattcta	Invert_repeat
+10674	7858	12	1	tcaaaacacaac	tcaaaacacaac	Direct_repeat
+10676	4046	10	1	aaaacacaac	aaaacacaac	Direct_repeat
+10700	7232	10	1	tcctaattct	tcctaattct	Direct_repeat
+10708	1961	10	4	ctccaatact	ctccaatact	Invert_repeat
+10735	5011	10	1	aattcctgat	aattcctgat	Direct_repeat
+10738	2428	11	4	tcctgatccaa	tcctgatccaa	Invert_repeat
+10745	5368	10	4	ccaatgtctt	ccaatgtctt	Invert_repeat
+10753	2992	11	4	ttcatatggtt	ttcatatggtt	Invert_repeat
+10754	10377	10	4	tcatatggtt	tcatatggtt	Invert_repeat
+10755	9082	10	4	catatggttg	catatggttg	Invert_repeat
+10771	9238	10	3	ataatagcct		Non-standard repeat
+10779	5531	11	1	cttcatagtaa	cttcatagtaa	Direct_repeat
+10780	3605	10	4	ttcatagtaa	ttcatagtaa	Invert_repeat
+10802	9225	10	1	acggtctcca	acggtctcca	Direct_repeat
+10806	6001	10	4	tctccacctc	tctccacctc	Invert_repeat
+10807	6001	10	3	ctccacctct		Non-standard repeat
+10823	1332	10	2	ccaaagccca		Non-standard repeat
+10883	8946	10	1	aactaggagg	aactaggagg	Direct_repeat
+10885	2779	11	4	ctaggaggata	ctaggaggata	Invert_repeat
+10910	9132	10	1	tcacactact	tcacactact	Direct_repeat
+10911	9509	10	1	cacactactc	cacactactc	Direct_repeat
+10913	4637	12	2	cactactcctaa		Non-standard repeat
+10918	838	10	3	ctcctaaatc		Non-standard repeat
+10938	3412	10	1	cttcatagca	cttcatagca	Direct_repeat
+10960	4588	10	2	ttactatccc		Non-standard repeat
+10963	2773	10	2	ctatccctat		Non-standard repeat
+10979	1655	10	2	taattataac		Non-standard repeat
+10979	3966	10	4	taattataac	taattataac	Invert_repeat
+11021	6089	10	1	aatctctcat	aatctctcat	Direct_repeat
+11022	1573	10	3	atctctcatt		Non-standard repeat
+11051	6430	11	2	acatagcactt		Non-standard repeat
+11058	8136	10	3	acttgtaatt		Non-standard repeat
+11072	9995	12	1	ctatccttattc	ctatccttattc	Direct_repeat
+11086	6047	12	1	acaccctgaagt	acaccctgaagt	Direct_repeat
+11087	8996	10	2	caccctgaag		Non-standard repeat
+11168	4427	10	1	ccaactacga	ccaactacga	Direct_repeat
+11194	7804	12	1	acaataattcta	acaataattcta	Direct_repeat
+11225	909	10	2	tcctcccact		Non-standard repeat
+11231	8358	11	3	cactaatagct		Non-standard repeat
+11259	9450	10	2	aagcctaacc		Non-standard repeat
+11262	9488	12	1	cctaaccaacct	cctaaccaacct	Direct_repeat
+11271	2971	10	1	cctagcccta	cctagcccta	Direct_repeat
+11281	8066	11	1	cctccaacaat	cctccaacaat	Direct_repeat
+11289	393	11	3	aattaatttga		Non-standard repeat
+11311	4069	10	3	ttcgtagtta		Non-standard repeat
+11319	6019	10	1	tatatcaaca	tatatcaaca	Direct_repeat
+11324	3878	10	4	caacattttc	caacattttc	Invert_repeat
+11341	9153	10	1	aatattacga	aatattacga	Direct_repeat
+11348	3183	11	1	cgatcattcta	cgatcattcta	Direct_repeat
+11350	3930	12	1	atcattctaata	atcattctaata	Direct_repeat
+11358	8158	10	4	aataggatta	aataggatta	Invert_repeat
+11371	2609	10	2	atagtaatta		Non-standard repeat
+11375	5896	11	1	taattaccgcc	taattaccgcc	Direct_repeat
+11406	721	12	1	aatcacaacaca	aatcacaacaca	Direct_repeat
+11422	8570	10	4	ggtaaataca	ggtaaataca	Invert_repeat
+11423	1071	10	2	gtaaatacac		Non-standard repeat
+11455	9070	10	3	ccttccttta		Non-standard repeat
+11480	10459	11	2	tcatatcatta		Non-standard repeat
+11493	5321	10	1	cattttaccc	cattttaccc	Direct_repeat
+11497	7963	10	1	ttacccctat	ttacccctat	Direct_repeat
+11502	5657	12	1	cctattactcct	cctattactcct	Direct_repeat
+11521	9785	10	1	aacccaaaaa	aacccaaaaa	Direct_repeat
+11568	526	10	2	aaaaacatta		Non-standard repeat
+11589	1707	11	4	taataatagag	taataatagag	Invert_repeat
+11590	3738	11	1	aataatagagg	aataatagagg	Direct_repeat
+11605	7066	10	3	tatcttctta		Non-standard repeat
+11617	406	10	2	taccgaaaaa		Non-standard repeat
+11620	3609	11	2	cgaaaaagtat		Non-standard repeat
+11657	3706	11	1	atgtctgacaa	atgtctgacaa	Direct_repeat
+11669	11617	12	3	atggctttttca		Non-standard repeat
+11669	406	10	4	atggcttttt	atggcttttt	Invert_repeat
+11681	1518	11	4	aacttttaaag	aacttttaaag	Invert_repeat
+11689	9993	10	4	aaggatagta	aaggatagta	Invert_repeat
+11720	2334	11	1	ccaaaaaattg	ccaaaaaattg	Direct_repeat
+11742	422	11	1	aataaaagtaa	aataaaagtaa	Direct_repeat
+11742	706	11	1	aataaaagtaa	aataaaagtaa	Direct_repeat
+11745	7832	10	3	aaaagtaata		Non-standard repeat
+11747	8511	10	3	aagtaataaa		Non-standard repeat
+11751	5877	10	3	aataaacata		Non-standard repeat
+11771	1844	10	2	tcacattaat		Non-standard repeat
+11772	10015	11	1	cacattaataa	cacattaataa	Direct_repeat
+11773	522	10	2	acattaataa		Non-standard repeat
+11775	824	10	1	attaataacc	attaataacc	Direct_repeat
+11789	8524	10	1	tcctactaac	tcctactaac	Direct_repeat
+11797	10962	11	1	actatccctat	actatccctat	Direct_repeat
+11798	2771	12	2	ctatccctatta		Non-standard repeat
+11799	4028	17	1	tatccctattataataa	tatccctattataataa	Direct_repeat
+11799	4025	12	2	tatccctattat		Non-standard repeat
+11803	5544	11	1	cctattataat	cctattataat	Direct_repeat
+11805	4034	10	4	tattataata	tattataata	Invert_repeat
+11806	3437	10	1	attataataa	attataataa	Direct_repeat
+11808	3286	11	2	tataataacga		Non-standard repeat
+11835	8949	10	3	atcctccaac		Non-standard repeat
+11838	11166	10	1	ctccaactac	ctccaactac	Direct_repeat
+11839	4351	10	2	tccaactacc		Non-standard repeat
+11845	5734	11	2	tacccgatcta		Non-standard repeat
+11858	1815	11	1	taaaaacaacc	taaaaacaacc	Direct_repeat
+11862	4884	10	2	aacaaccatc		Non-standard repeat
+11868	7010	11	1	catctcatatg	catctcatatg	Direct_repeat
+11885	7415	10	2	tcatcagcat		Non-standard repeat
+11888	7440	10	3	tcagcataat		Non-standard repeat
+11895	6538	10	2	aattcccaca		Non-standard repeat
+11903	11807	10	2	caataatatt		Non-standard repeat
+11908	4009	10	4	atatttattt	atatttattt	Invert_repeat
+11911	4009	10	3	tttatttata		Non-standard repeat
+11975	11796	10	1	aactatccct	aactatccct	Direct_repeat
+11982	7368	10	2	cctcagcttc		Non-standard repeat
+12013	8127	10	4	atgtttgtcc	atgtttgtcc	Invert_repeat
+12030	11307	10	1	actattcgta	actattcgta	Direct_repeat
+12047	7061	11	1	ctatcatagaa	ctatcatagaa	Direct_repeat
+12054	3789	10	2	agaattctca		Non-standard repeat
+12061	6722	10	3	tcaatatgat		Non-standard repeat
+12100	6842	10	4	ttcttcaaat	ttcttcaaat	Invert_repeat
+12117	10349	11	2	cctattcctca		Non-standard repeat
+12121	11881	10	1	ttcctcatca	ttcctcatca	Direct_repeat
+12122	4639	10	1	tcctcatcac	tcctcatcac	Direct_repeat
+12122	10912	11	2	tcctcatcaca		Non-standard repeat
+12133	4559	10	2	atacttatcc		Non-standard repeat
+12142	3144	10	3	ctcgtcaccg		Non-standard repeat
+12149	2591	10	2	ccgcgaacaa		Non-standard repeat
+12157	6599	10	1	aacctttttc	aacctttttc	Direct_repeat
+12197	7134	10	1	ttatatcatt	ttatatcatt	Direct_repeat
+12201	10108	10	2	atcattccta		Non-standard repeat
+12266	11916	10	4	tcctgtataa	tcctgtataa	Invert_repeat
+12286	10743	10	4	gacattggat	gacattggat	Invert_repeat
+12289	9713	11	3	attggatttat		Non-standard repeat
+12289	4955	10	2	attggattta		Non-standard repeat
+12297	10175	10	4	tattttagca	tattttagca	Invert_repeat
+12316	12093	12	2	ttcttagctaac		Non-standard repeat
+12345	8175	11	1	tcaacaaatct	tcaacaaatct	Direct_repeat
+12350	1549	10	3	aaatctttgc		Non-standard repeat
+12362	11519	10	1	taaacccaaa	taaacccaaa	Direct_repeat
+12380	4344	10	2	acctacccct		Non-standard repeat
+12394	4287	12	1	ggcctaatccta	ggcctaatccta	Direct_repeat
+12396	8156	10	1	cctaatccta	cctaatccta	Direct_repeat
+12400	9598	10	3	atcctagccg		Non-standard repeat
+12419	1423	10	2	aatccgcaca		Non-standard repeat
+12464	5457	10	2	aaggcccaac		Non-standard repeat
+12482	4762	10	1	cagcactact	cagcactact	Direct_repeat
+12492	8920	10	1	ccactcaagc	ccactcaagc	Direct_repeat
+12504	10477	11	4	aatagttgtag	aatagttgtag	Invert_repeat
+12522	834	11	3	tttcctcctaa		Non-standard repeat
+12526	4634	10	2	ctcctaatcc		Non-standard repeat
+12527	4288	10	2	tcctaatccg		Non-standard repeat
+12527	12395	10	2	tcctaatccg		Non-standard repeat
+12554	7155	10	2	aaaacaacaa		Non-standard repeat
+12556	1668	10	1	aacaacaaac	aacaacaaac	Direct_repeat
+12652	8754	10	3	attgttgctt		Non-standard repeat
+12692	3529	10	3	tagtgacaat		Non-standard repeat
+12703	8972	10	1	ggtatcaacc	ggtatcaacc	Direct_repeat
+12710	286	10	4	accaacccta	accaacccta	Invert_repeat
+12752	1478	10	4	tctttaaagc	tctttaaagc	Invert_repeat
+12767	4011	10	3	tatttatatg		Non-standard repeat
+12775	5687	10	4	tgctccggct	tgctccggct	Invert_repeat
+12790	11182	10	1	atccacagcc	atccacagcc	Direct_repeat
+12794	565	10	1	acagcctaaa	acagcctaaa	Direct_repeat
+12806	3250	10	2	atgaacaaga		Non-standard repeat
+12811	1080	10	4	caagacattc	caagacattc	Invert_repeat
+12818	7672	10	1	ttcgaaaaat	ttcgaaaaat	Direct_repeat
+12836	10671	11	1	tattcaaaaca	tattcaaaaca	Direct_repeat
+12838	8093	10	1	ttcaaaacaa	ttcaaaacaa	Direct_repeat
+12856	8490	11	1	accacaacagc	accacaacagc	Direct_repeat
+12859	8266	10	4	acaacagccc	acaacagccc	Invert_repeat
+12860	8730	11	1	caacagcccta	caacagcccta	Direct_repeat
+12862	11110	11	1	acagccctaat	acagccctaat	Direct_repeat
+12866	1658	10	2	ccctaattat		Non-standard repeat
+12867	5433	10	2	cctaattatc		Non-standard repeat
+12889	337	11	1	ctaacaggaat	ctaacaggaat	Direct_repeat
+12890	6388	10	1	taacaggaat	taacaggaat	Direct_repeat
+12898	3896	10	2	atgcccttcc		Non-standard repeat
+12943	8050	10	2	tccgccaaca		Non-standard repeat
+12958	9080	11	2	tataccaacgc		Non-standard repeat
+12973	8684	15	1	gcccttttaataaca	gcccttttaataaca	Direct_repeat
+12976	5522	10	2	cttttaataa		Non-standard repeat
+12983	2763	11	1	taacactaatt	taacactaatt	Direct_repeat
+13094	9252	10	1	ccttcctaat	ccttcctaat	Direct_repeat
+13095	10698	10	1	cttcctaatt	cttcctaatt	Direct_repeat
+13096	7111	10	1	ttcctaatta	ttcctaatta	Direct_repeat
+13146	3736	15	3	atttattatctccaa		Non-standard repeat
+13148	11590	11	3	ttattatctcc		Non-standard repeat
+13148	1707	10	2	ttattatctc		Non-standard repeat
+13166	8064	12	1	tccctccaacaa	tccctccaacaa	Direct_repeat
+13168	11281	10	1	cctccaacaa	cctccaacaa	Direct_repeat
+13169	13155	11	1	ctccaacaaca	ctccaacaaca	Direct_repeat
+13171	1666	10	1	ccaacaacaa	ccaacaacaa	Direct_repeat
+13184	6180	10	3	cccaaataac		Non-standard repeat
+13186	99	10	2	caaataacta		Non-standard repeat
+13187	7891	11	2	aaataactata		Non-standard repeat
+13208	420	11	2	tgaaaataaca		Non-standard repeat
+13278	6863	11	1	caacctaaaat	caacctaaaat	Direct_repeat
+13283	384	12	4	taaaatttaact	taaaatttaact	Invert_repeat
+13301	7084	10	2	ccagcacctt		Non-standard repeat
+13313	7728	10	2	aattttccaa		Non-standard repeat
+13320	11835	10	2	caacctccta		Non-standard repeat
+13320	8948	11	4	caacctcctag	caacctcctag	Invert_repeat
+13324	5802	10	4	ctcctaggat	ctcctaggat	Invert_repeat
+13339	2753	10	2	cctacaatta		Non-standard repeat
+13378	4472	10	2	acaataagtc		Non-standard repeat
+13387	7523	10	2	caaaagtcag		Non-standard repeat
+13435	1932	11	1	ttaccaaaaac	ttaccaaaaac	Direct_repeat
+13449	10329	10	1	ctcactaatc	ctcactaatc	Direct_repeat
+13452	12927	11	2	actaatccaga		Non-standard repeat
+13454	4360	10	2	taatccagat		Non-standard repeat
+13474	6255	10	1	accataatta	accataatta	Direct_repeat
+13475	412	12	1	ccataattacaa	ccataattacaa	Direct_repeat
+13476	8137	12	2	cataattacaag		Non-standard repeat
+13477	523	10	1	ataattacaa	ataattacaa	Direct_repeat
+13477	6571	10	4	ataattacaa	ataattacaa	Invert_repeat
+13518	5651	10	1	ctctttccta	ctctttccta	Direct_repeat
+13553	9818	10	1	tatttagttt	tatttagttt	Direct_repeat
+13610	7596	11	3	accggttacaa		Non-standard repeat
+13638	3506	10	4	taactgtata	taactgtata	Invert_repeat
+13641	3701	10	2	ctgtataaag		Non-standard repeat
+13654	10207	11	2	caatccccata		Non-standard repeat
+13663	8454	10	3	tagcctcctc		Non-standard repeat
+13679	471	12	2	aaacccagaatc		Non-standard repeat
+13680	7879	10	1	aacccagaat	aacccagaat	Direct_repeat
+13719	9875	10	2	aaaccattaa		Non-standard repeat
+13724	2627	10	1	attaaactca	attaaactca	Direct_repeat
+13743	10613	10	1	tttacttcct	tttacttcct	Direct_repeat
+13747	11880	10	1	cttcctcatc	cttcctcatc	Direct_repeat
+13762	7269	10	1	atacataata	atacataata	Direct_repeat
+13774	11525	11	2	ctattaaaaac		Non-standard repeat
+13783	3727	10	4	actctatcaa	actctatcaa	Invert_repeat
+13788	1673	10	2	atcaacaaac		Non-standard repeat
+13788	9705	10	2	atcaacaaac		Non-standard repeat
+13789	12367	10	2	tcaacaaacc		Non-standard repeat
+13817	13215	10	1	aacagcctta	aacagcctta	Direct_repeat
+13822	6084	10	3	ccttattaga		Non-standard repeat
+13824	6731	10	3	ttattagaaa		Non-standard repeat
+13831	11519	10	2	aaacccaaat		Non-standard repeat
+13831	12361	11	2	aaacccaaatt		Non-standard repeat
+13838	2484	11	3	aatttcaggat		Non-standard repeat
+13842	1791	10	4	tcaggatatt	tcaggatatt	Invert_repeat
+13880	4861	10	2	aaacaccacc		Non-standard repeat
+13898	6179	10	3	tcccaaataa		Non-standard repeat
+13903	1119	10	2	aataaattaa		Non-standard repeat
+13908	12643	10	1	attaaaaaaa	attaaaaaaa	Direct_repeat
+13913	1932	10	2	aaaaaccatt		Non-standard repeat
+13913	13435	10	2	aaaaaccatt		Non-standard repeat
+13915	13719	12	1	aaaccattaaac	aaaccattaaac	Direct_repeat
+13915	9875	10	2	aaaccattaa		Non-standard repeat
+13930	8903	10	3	aaaaagaccc		Non-standard repeat
+13940	6904	10	3	accaaagttc		Non-standard repeat
+13962	12708	10	1	caaccaaccc	caaccaaccc	Direct_repeat
+13963	2244	12	3	aaccaaccccac		Non-standard repeat
+13964	8333	10	1	accaacccca	accaacccca	Direct_repeat
+13965	8827	10	2	ccaaccccac		Non-standard repeat
+13979	7162	10	2	cacaatcaaa		Non-standard repeat
+13987	11269	10	1	aacctagccc	aacctagccc	Direct_repeat
+14018	1889	10	2	tgaagaaaat		Non-standard repeat
+14018	5526	10	4	tgaagaaaat	tgaagaaaat	Invert_repeat
+14025	13955	10	1	aatcccacaa	aatcccacaa	Direct_repeat
+14035	5357	13	1	aaccaatcacaaa	aaccaatcacaaa	Direct_repeat
+14043	1813	10	2	acaaaaataa		Non-standard repeat
+14045	4038	10	2	aaaaataata		Non-standard repeat
+14048	814	10	3	aataatactt		Non-standard repeat
+14050	9867	11	2	taatacttaaa		Non-standard repeat
+14060	516	11	2	aataaacacaa		Non-standard repeat
+14076	4128	10	1	gttatcatta	gttatcatta	Direct_repeat
+14078	10457	10	2	tatcattatt		Non-standard repeat
+14098	5091	10	3	atctaaccac		Non-standard repeat
+14101	13582	10	1	taaccacgac	taaccacgac	Direct_repeat
+14111	10459	11	3	taatgatatga		Non-standard repeat
+14111	11480	11	4	taatgatatga	taatgatatga	Invert_repeat
+14129	9517	10	1	tcgttgtcat	tcgttgtcat	Direct_repeat
+14145	3246	10	2	acaagaacac		Non-standard repeat
+14164	12815	12	1	acattcgaaaaa	acattcgaaaaa	Direct_repeat
+14170	9786	10	2	gaaaaaccca		Non-standard repeat
+14181	10363	10	1	ccactattaa	ccactattaa	Direct_repeat
+14183	13773	11	1	actattaaaaa	actattaaaaa	Direct_repeat
+14184	11526	10	2	ctattaaaaa		Non-standard repeat
+14188	13736	11	4	taaaaattgta	taaaaattgta	Invert_repeat
+14229	12104	10	1	tcaaatatct	tcaaatatct	Direct_repeat
+14257	6411	10	2	gttcccttct		Non-standard repeat
+14275	4288	12	1	gcctaatcctac	gcctaatcctac	Direct_repeat
+14275	12395	11	1	gcctaatccta	gcctaatccta	Direct_repeat
+14275	12527	10	2	gcctaatcct		Non-standard repeat
+14276	8156	10	1	cctaatccta	cctaatccta	Direct_repeat
+14277	10468	10	1	ctaatcctac	ctaatcctac	Direct_repeat
+14279	2756	10	2	aatcctacaa		Non-standard repeat
+14299	6214	11	4	gtctattccta	gtctattccta	Invert_repeat
+14301	1092	11	1	ctattcctagc	ctattcctagc	Direct_repeat
+14339	12517	12	1	ggcattttcctc	ggcattttcctc	Direct_repeat
+14354	12436	10	2	tacccacatc		Non-standard repeat
+14357	12732	10	1	ccacatctgc	ccacatctgc	Direct_repeat
+14376	12701	10	2	aactatggct		Non-standard repeat
+14389	4443	10	2	tcatccgata		Non-standard repeat
+14395	12068	10	1	gatatatgca	gatatatgca	Direct_repeat
+14414	4187	10	1	agcatccata	agcatccata	Direct_repeat
+14414	8109	10	1	agcatccata	agcatccata	Direct_repeat
+14422	3408	10	1	tattcttcat	tattcttcat	Direct_repeat
+14422	10288	11	2	tattcttcatc		Non-standard repeat
+14424	7193	10	3	ttcttcatct		Non-standard repeat
+14429	14270	10	1	catctgccta	catctgccta	Direct_repeat
+14435	4559	10	1	cctattcata	cctattcata	Direct_repeat
+14435	12133	10	2	cctattcata		Non-standard repeat
+14445	2489	10	4	cacgtaggac	cacgtaggac	Invert_repeat
+14450	5689	11	2	aggacgaggcc		Non-standard repeat
+14490	4605	10	1	acatgaaaca	acatgaaaca	Direct_repeat
+14522	4202	10	1	aacaatagcc	aacaatagcc	Direct_repeat
+14546	13690	10	2	ctatgtcctc		Non-standard repeat
+14551	6496	11	4	tcctcccatga	tcctcccatga	Invert_repeat
+14596	13319	10	1	ccaacctcct	ccaacctcct	Direct_repeat
+14617	14393	10	4	catatatcgg	catatatcgg	Invert_repeat
+14628	6798	10	1	acaaacctag	acaaacctag	Direct_repeat
+14651	5843	10	4	aggaggtttt	aggaggtttt	Invert_repeat
+14700	4841	12	4	cattttattttt	cattttattttt	Invert_repeat
+14706	1533	10	3	atttttccat		Non-standard repeat
+14713	3735	11	3	catttattatc		Non-standard repeat
+14714	13146	10	1	atttattatc	atttattatc	Direct_repeat
+14756	1036	10	2	ccacgaaaca		Non-standard repeat
+14769	3935	10	1	tctaataacc	tctaataacc	Direct_repeat
+14777	2435	10	2	ccccacagga		Non-standard repeat
+14781	5286	10	3	acaggaatct		Non-standard repeat
+14783	5272	10	1	aggaatctca	aggaatctca	Direct_repeat
+14797	12234	10	2	acgcagacaa		Non-standard repeat
+14798	7528	11	2	cgcagacaaaa		Non-standard repeat
+14818	10647	10	1	acccctacta	acccctacta	Direct_repeat
+14828	3520	10	1	caccattaaa	caccattaaa	Direct_repeat
+14838	9595	10	3	gatatcctag		Non-standard repeat
+14839	13326	10	4	atatcctagg	atatcctagg	Invert_repeat
+14843	3040	12	1	cctaggcgtcct	cctaggcgtcct	Direct_repeat
+14859	1577	10	3	ctcattctag		Non-standard repeat
+14860	2955	10	1	tcattctagc	tcattctagc	Direct_repeat
+14862	11200	10	1	attctagccc	attctagccc	Direct_repeat
+14863	7823	10	1	ttctagccct	ttctagccct	Direct_repeat
+14865	2972	10	1	ctagccctaa	ctagccctaa	Direct_repeat
+14871	14770	10	1	ctaataaccc	ctaataaccc	Direct_repeat
+14872	11777	10	1	taataaccct	taataaccct	Direct_repeat
+14878	1957	10	1	ccctagtatt	ccctagtatt	Direct_repeat
+14881	9988	10	4	tagtattatt	tagtattatt	Invert_repeat
+14882	14046	11	4	agtattatttt	agtattatttt	Invert_repeat
+14888	6993	11	4	attttcacctg	attttcacctg	Invert_repeat
+14929	688	10	1	cagcaaaccc	cagcaaaccc	Direct_repeat
+14933	12628	10	2	aaacccactc		Non-standard repeat
+14941	8218	10	2	tcaacacacc		Non-standard repeat
+14948	3021	10	1	accccctcat	accccctcat	Direct_repeat
+14951	11386	10	2	ccctcatatc		Non-standard repeat
+14957	5865	10	1	tatcaaaccc	tatcaaaccc	Direct_repeat
+14959	4000	10	4	tcaaacccga	tcaaacccga	Invert_repeat
+14967	3604	12	3	gaatgatacttt		Non-standard repeat
+14968	5532	10	2	aatgatactt		Non-standard repeat
+14968	10780	10	2	aatgatactt		Non-standard repeat
+14974	7838	10	2	actttctatt		Non-standard repeat
+14999	1290	10	2	acgatcaatt		Non-standard repeat
+15002	2665	10	3	atcaattcca		Non-standard repeat
+15008	11738	10	1	tccaaataaa	tccaaataaa	Direct_repeat
+15015	10882	12	1	aaactaggagga	aaactaggagga	Direct_repeat
+15016	8946	10	1	aactaggagg	aactaggagg	Direct_repeat
+15020	4406	10	2	aggaggagtc		Non-standard repeat
+15028	2970	11	1	tcctagcccta	tcctagcccta	Direct_repeat
+15029	11271	10	1	cctagcccta	cctagcccta	Direct_repeat
+15048	7231	15	1	atcctaattctaatt	atcctaattctaatt	Direct_repeat
+15049	10700	10	1	tcctaattct	tcctaattct	Direct_repeat
+15051	10157	10	2	ctaattctaa		Non-standard repeat
+15053	11	10	3	aattctaatt		Non-standard repeat
+15055	9745	10	2	ttctaattct		Non-standard repeat
+15070	12485	10	1	cactactcca	cactactcca	Direct_repeat
+15079	6850	10	2	atacatccaa		Non-standard repeat
+15089	10539	10	2	acaacgaagt		Non-standard repeat
+15097	7692	11	3	gtatgatattc		Non-standard repeat
+15109	5570	10	3	gaccaatcag		Non-standard repeat
+15115	12174	10	4	tcagccaatg	tcagccaatg	Invert_repeat
+15149	8525	10	1	cctactaaca	cctactaaca	Direct_repeat
+15152	13975	12	2	actaacactcac		Non-standard repeat
+15191	14615	10	1	cccatatatc	cccatatatc	Direct_repeat
+15193	12066	10	4	catatatcat	catatatcat	Invert_repeat
+15211	14997	10	2	aactagcatc		Non-standard repeat
+15224	6054	10	4	tatatacttc	tatatacttc	Invert_repeat
+15272	7895	10	2	cgaaaataac		Non-standard repeat
+15287	1893	10	2	aaaatgaaga		Non-standard repeat
+15289	1718	11	2	aatgaagataa		Non-standard repeat
+15312	13699	10	2	cattaaatac		Non-standard repeat
+15339	9362	10	3	gaaaaggaga		Non-standard repeat
+15350	4570	10	2	caacttaacc		Non-standard repeat
+15352	15165	11	3	acttaacctcc		Non-standard repeat
+15356	13165	10	2	aacctcccta		Non-standard repeat
+15388	4672	11	1	ccccactatca	ccccactatca	Direct_repeat
+15393	8221	10	2	ctatcaacac		Non-standard repeat
+15397	13272	10	2	caacacccaa		Non-standard repeat
+15415	1715	10	4	ttctatttaa	ttctatttaa	Invert_repeat
+15418	937	10	2	tatttaaact		Non-standard repeat
+15438	15267	11	2	aaaagctatca		Non-standard repeat
+15443	7813	10	1	ctatcaatat	ctatcaatat	Direct_repeat
+15454	3686	10	1	cccccacaaa	cccccacaaa	Direct_repeat
+15473	10382	12	2	cttcctcagtat		Non-standard repeat
+15495	13676	10	1	aaaaaaccca	aaaaaaccca	Direct_repeat
+15496	9784	11	2	aaaaacccaag		Non-standard repeat
+15496	11521	10	2	aaaaacccaa		Non-standard repeat
+15520	10033	10	2	ctttacactc		Non-standard repeat
+15538	11060	10	3	aacattaaca		Non-standard repeat
+15540	1802	10	1	cattaacagc	cattaacagc	Direct_repeat
+15551	372	10	1	cgcaccaaat	cgcaccaaat	Direct_repeat
+15580	3647	11	4	acatgtcatat	acatgtcatat	Invert_repeat
+15594	13144	10	2	attatttagg		Non-standard repeat
+15595	12290	11	2	ttatttaggtt		Non-standard repeat
+15596	9714	10	4	tatttaggtt	tatttaggtt	Invert_repeat
+15598	13277	10	4	tttaggttgt	tttaggttgt	Invert_repeat
+15613	11642	10	4	catagaatta	catagaatta	Invert_repeat
+15615	10368	10	4	tagaattaat	tagaattaat	Invert_repeat
+15619	415	10	3	attaatgtta		Non-standard repeat
+15620	6319	10	4	ttaatgttac	ttaatgttac	Invert_repeat
+15634	6438	12	1	acatactatgta	acatactatgta	Direct_repeat
+15647	8769	10	2	atataacatt		Non-standard repeat
+15651	6962	10	1	aacattacat	aacattacat	Direct_repeat
+15654	15307	10	2	attacatgat		Non-standard repeat
+15678	4991	10	1	taagcaagta	taagcaagta	Direct_repeat
+15679	254	10	2	aagcaagtac		Non-standard repeat
+15692	1364	10	2	aagaattaat		Non-standard repeat
+15693	15616	11	1	agaattaatgt	agaattaatgt	Direct_repeat
+15695	3232	10	4	aattaatgta	aattaatgta	Invert_repeat
+15698	15589	12	3	taatgtaataaa		Non-standard repeat
+15698	15588	10	4	taatgtaata	taatgtaata	Invert_repeat
+15720	15193	10	3	gtatatagta		Non-standard repeat
+15720	12066	10	2	gtatatagta		Non-standard repeat
+15725	15307	10	1	tagtacatta	tagtacatta	Direct_repeat
+15725	15654	10	2	tagtacatta		Non-standard repeat
+15728	15591	10	1	tacattattt	tacattattt	Direct_repeat
+15728	15700	10	3	tacattattt		Non-standard repeat
+15731	13767	10	3	attatttgat		Non-standard repeat
+15732	15012	10	3	ttatttgatc		Non-standard repeat
+15746	15669	20	1	ccatgcatataagcaagtac	ccatgcatataagcaagtac	Direct_repeat
+15755	4991	10	1	taagcaagta	taagcaagta	Direct_repeat
+15756	254	10	2	aagcaagtac		Non-standard repeat
+15763	15075	10	2	tacatacctc		Non-standard repeat
+15854	5727	13	3	cgtccattagatc		Non-standard repeat
+15916	5770	11	2	atccctcttct		Non-standard repeat
+15936	13289	10	2	cccatcaatt		Non-standard repeat
+15944	15452	11	4	ttgtgggggta	ttgtgggggta	Invert_repeat
+15951	97	11	3	ggtagttattt		Non-standard repeat
+15955	1120	10	4	gttatttaat	gttatttaat	Invert_repeat
+15979	4968	10	3	atctggttct		Non-standard repeat
+16020	6873	10	3	attctttcct		Non-standard repeat
+16045	11238	11	3	tcgatggacta		Non-standard repeat
+16094	6837	10	1	catacatttg	catacatttg	Direct_repeat
+16097	9878	10	4	acatttggta	acatttggta	Invert_repeat
+16102	10788	10	4	tggtattttt	tggtattttt	Invert_repeat
+16107	2336	10	3	ttttttaact		Non-standard repeat
+16118	2919	11	3	ttggggatgct		Non-standard repeat
+16120	3678	11	4	ggggatgcttg	ggggatgcttg	Invert_repeat
+16161	12771	12	4	ccggagcatata	ccggagcatata	Invert_repeat
+16168	15646	10	3	atatattgta		Non-standard repeat
+16190	7044	10	4	tgcatcttga	tgcatcttga	Invert_repeat
+16201	15066	10	2	catcaccata		Non-standard repeat
+16202	10791	10	2	atcaccataa		Non-standard repeat
+16208	9106	10	3	ataatggtag		Non-standard repeat
+16227	11944	10	2	tcacagtcaa		Non-standard repeat
+16247	15508	10	2	acataatgta		Non-standard repeat
+16261	6531	10	2	acatcggact		Non-standard repeat
+16267	1786	10	3	gactattata		Non-standard repeat
+16276	7986	10	2	attgttcccc		Non-standard repeat
+16294	6824	11	2	taccacctccc		Non-standard repeat
+16300	5713	12	2	ctccccctatat		Non-standard repeat
+16309	13892	11	1	tatacctccca	tatacctccca	Direct_repeat
+16353	937	11	1	tcaaatttatt	tcaaatttatt	Direct_repeat
+16353	15418	10	2	tcaaatttat		Non-standard repeat
+16357	15590	12	2	atttattacatt		Non-standard repeat
+16358	15728	10	2	tttattacat		Non-standard repeat
+16358	15699	11	4	tttattacatt	tttattacatt	Invert_repeat
+16375	2627	10	2	actcaaatta		Non-standard repeat
+16375	13724	10	2	actcaaatta		Non-standard repeat
+16380	5891	10	4	aattagtact	aattagtact	Invert_repeat
+16389	2524	11	3	tccagccaaag		Non-standard repeat
+16401	15223	10	4	aagtatataa	aagtatataa	Invert_repeat
+16403	6201	11	3	gtatataagtg		Non-standard repeat
+16415	14907	10	4	ctgggtctcc	ctgggtctcc	Invert_repeat
