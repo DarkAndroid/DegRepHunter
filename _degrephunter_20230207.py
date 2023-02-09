@@ -1459,7 +1459,7 @@ for f in files:
                 q=("UPDATE repeats_gap SET first_start = %s, second_start = %s, length = %s, first_seq = ?, second_seq = ?, alt_second_seq = ?, errs = %s  WHERE id = %s" % (starta,startb,length,errs,of[0][0]))
                 cur.execute(q,(alpha,betha,twbetha))
     q=("DELETE FROM repeats_gap WHERE length < 10")
-    cur.execute()
+    cur.execute(q)
 
     in_memory.commit()
 
